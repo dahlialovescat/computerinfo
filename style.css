@@ -11,7 +11,7 @@ body {
   h2 {
   text-align: center;
   font-family: Cambria;
-  font-size: 26px;
+  font-size: 30px;
   }
   h3{
   font-size: 25px;
@@ -20,3 +20,9 @@ body {
   font-family: Cambria;
   font-size: 22px;
   }
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 30%;
+}
