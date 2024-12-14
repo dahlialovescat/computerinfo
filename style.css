@@ -26,3 +26,9 @@ body {
   margin-right: auto;
   width: 30%;
 }
+h6{
+text-align:center;
+font-family: Cambria;
+  font-size: 22px;
+  font-weight:normal
+}
